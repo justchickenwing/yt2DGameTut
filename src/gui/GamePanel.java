@@ -64,9 +64,9 @@ public class GamePanel extends JPanel implements Runnable{   //// implements Run
                 double remainingTime = nextDrawTime - System.nanoTime();
                 remainingTime = remainingTime / 1000000;     //// sleep accepts only mili seconds, no nanoseconds
 
-//                if (remainingTime < 0){
-//                    remainingTime = 0;
-//                }
+                if (remainingTime < 0){
+                    remainingTime = 0;
+                }
 
                 Thread.sleep((long)remainingTime);     //// this pauses the Gametime
 
