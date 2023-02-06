@@ -12,6 +12,7 @@ Ein erster Versuch eines kleinen Advature 2D retro Game.
 ## Version History
 
 - Vers. 0.1 - 06.02.2023
+// Die Fenstergrösse und die Keyhandler wurden eingebaut.
 
 ## Credits
 Map tileset by alistair
