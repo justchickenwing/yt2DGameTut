@@ -4,6 +4,7 @@ building my first 2D advanture game based on java
 ## Description
 
 Ein erster Versuch eines kleinen Advature 2D retro Game.
+
 Da es sich dabei um eine Übung handelt, sind im Code viele Kommentare vorhanden.
 
 ## Authors
@@ -16,5 +17,5 @@ Da es sich dabei um eine Übung handelt, sind im Code viele Kommentare vorhanden
 // Die Fenstergrösse und die Keyhandler wurden eingebaut.
 
 ## Credits
-Map tileset by alistair
-Based on a yt-tutorial by RyiSnow
+- Map tileset by alistair
+- Based on a yt-tutorial by RyiSnow
