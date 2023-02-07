@@ -3,7 +3,7 @@ building my first 2D advanture game based on java
 
 ## Description
 
-Ein erster Versuch eines kleinen Advature 2D retro Game.
+Ein erster Versuch eines kleinen Adventure 2D retro Game.
 
 Da es sich dabei um eine Übung handelt, sind im Code viele Kommentare vorhanden.
 
